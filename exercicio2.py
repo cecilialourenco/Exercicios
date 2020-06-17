@@ -5,8 +5,10 @@ dados = []
 
 nome = input('Digite o seu nome: ')
 dados.append(nome)
+
 sobrenome = input('Digite o seu sobrenome: ')
 dados.append(sobrenome)
+
 idade = int(input('Digite a sua idade: '))
 dados.append(idade)
 
