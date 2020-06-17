@@ -1,3 +1,5 @@
+'''Jogo da Adivinhação com três opções de níveis que dão direito a 5, 10 ou 20 tentativas.'''
+
 numero_secreto = 42
 pontuacao = 1000
 
